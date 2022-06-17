@@ -1,2 +1,2 @@
-# Sentiment-Analysis-of-imdb-movie-reviews-
+# Sentiment-Analysis-of-imdb-movie-reviews
 NLP
